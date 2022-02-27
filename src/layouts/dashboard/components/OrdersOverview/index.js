@@ -1,6 +1,5 @@
 // @mui material components
 import Card from "@mui/material/Card";
-import Icon from "@mui/material/Icon";
 
 import { useState, useEffect } from "react";
 // Material Dashboard 2 React components

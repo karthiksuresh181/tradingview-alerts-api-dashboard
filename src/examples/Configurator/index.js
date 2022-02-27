@@ -123,7 +123,7 @@ function Configurator() {
         px={3}
       >
         <MDBox>
-          <MDTypography variant="h5">TranAlyze Configurator</MDTypography>
+          <MDTypography variant="h5">Website Configurator</MDTypography>
           <MDTypography variant="body2" color="text">
             See our dashboard options.
           </MDTypography>
