@@ -5,7 +5,7 @@
   "author": "Karthik Suresh",
   "license": "MIT",
   "description": "React version of Material Dashboard by Karthik Suresh",
-  "homepage": "https://karthiksuresh181.github.io/tranalyze-frontend-material-dashboard",
+  "homepage": "https://karthiksuresh181.github.io/tradingview-alerts-api-dashboard",
   "engines": {
     "node": "14 || 15 || 16",
     "npm": ">=6"
