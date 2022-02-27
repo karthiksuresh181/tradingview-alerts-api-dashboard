@@ -42,7 +42,7 @@ function TimelineItem({ color, icon, title, dateTime, description, lastItem }) {
         </MDTypography>
         <MDBox mt={0.5}>
           <MDTypography variant="caption" color={isDark ? "secondary" : "text"}>
-            {dateTime}
+            Last Triggered at {dateTime}
           </MDTypography>
         </MDBox>
         <MDBox mt={2} mb={1.5}>
