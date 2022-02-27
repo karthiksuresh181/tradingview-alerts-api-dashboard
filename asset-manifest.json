@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/tradingview-alerts-api-dashboard/static/js/main.e8a29e40.chunk.js",
-    "main.js.map": "/tradingview-alerts-api-dashboard/static/js/main.e8a29e40.chunk.js.map",
+    "main.js": "/tradingview-alerts-api-dashboard/static/js/main.99282276.chunk.js",
+    "main.js.map": "/tradingview-alerts-api-dashboard/static/js/main.99282276.chunk.js.map",
     "runtime-main.js": "/tradingview-alerts-api-dashboard/static/js/runtime-main.3f97b8eb.js",
     "runtime-main.js.map": "/tradingview-alerts-api-dashboard/static/js/runtime-main.3f97b8eb.js.map",
-    "static/js/2.31c6f0ab.chunk.js": "/tradingview-alerts-api-dashboard/static/js/2.31c6f0ab.chunk.js",
-    "static/js/2.31c6f0ab.chunk.js.map": "/tradingview-alerts-api-dashboard/static/js/2.31c6f0ab.chunk.js.map",
+    "static/js/2.849773d1.chunk.js": "/tradingview-alerts-api-dashboard/static/js/2.849773d1.chunk.js",
+    "static/js/2.849773d1.chunk.js.map": "/tradingview-alerts-api-dashboard/static/js/2.849773d1.chunk.js.map",
     "index.html": "/tradingview-alerts-api-dashboard/index.html",
-    "static/js/2.31c6f0ab.chunk.js.LICENSE.txt": "/tradingview-alerts-api-dashboard/static/js/2.31c6f0ab.chunk.js.LICENSE.txt",
+    "static/js/2.849773d1.chunk.js.LICENSE.txt": "/tradingview-alerts-api-dashboard/static/js/2.849773d1.chunk.js.LICENSE.txt",
     "static/media/google-webdev.4044a50c.svg": "/tradingview-alerts-api-dashboard/static/media/google-webdev.4044a50c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3f97b8eb.js",
-    "static/js/2.31c6f0ab.chunk.js",
-    "static/js/main.e8a29e40.chunk.js"
+    "static/js/2.849773d1.chunk.js",
+    "static/js/main.99282276.chunk.js"
   ]
 }
