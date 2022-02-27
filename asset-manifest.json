@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/tradingview-alerts-api-dashboard/static/js/main.ef677926.chunk.js",
-    "main.js.map": "/tradingview-alerts-api-dashboard/static/js/main.ef677926.chunk.js.map",
+    "main.js": "/tradingview-alerts-api-dashboard/static/js/main.e8a29e40.chunk.js",
+    "main.js.map": "/tradingview-alerts-api-dashboard/static/js/main.e8a29e40.chunk.js.map",
     "runtime-main.js": "/tradingview-alerts-api-dashboard/static/js/runtime-main.3f97b8eb.js",
     "runtime-main.js.map": "/tradingview-alerts-api-dashboard/static/js/runtime-main.3f97b8eb.js.map",
     "static/js/2.31c6f0ab.chunk.js": "/tradingview-alerts-api-dashboard/static/js/2.31c6f0ab.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.3f97b8eb.js",
     "static/js/2.31c6f0ab.chunk.js",
-    "static/js/main.ef677926.chunk.js"
+    "static/js/main.e8a29e40.chunk.js"
   ]
 }
