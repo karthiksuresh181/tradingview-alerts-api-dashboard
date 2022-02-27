@@ -17,7 +17,7 @@ const routes = [
     name: "Dashboard",
     key: "dashboard",
     icon: <Icon fontSize="small">dashboard</Icon>,
-    route: "/tranalyze-frontend-material-dashboard/",
+    route: "/tradingview-alerts-api-dashboard/",
     component: <Dashboard />,
   },
 ];
